@@ -26,9 +26,17 @@ venv/
 env/
 ENV/
 
+# ============================================
 # Environment Variables
+# ============================================
 .env
 .env.local
+.env.*.local
+*.env
+.env.development
+.env.production
+.env.test
+.env.staging
 
 # IDEs
 .vscode/
