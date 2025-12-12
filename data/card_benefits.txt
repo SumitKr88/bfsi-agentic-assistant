@@ -1,9 +1,23 @@
-AMEX PLATINUM BENEFITS POLICY (Updated 2025)
+Platinum Card Benefits:
 
-1. Travel Insurance: All Platinum cardholders receive trip cancellation insurance up to $10,000 per person, provided the booking was made using the card. This benefit applies to flights and prepaid hotels only. Claims must be filed within 60 days of the trip cancellation date.
+Annual Fee: $695
 
-2. Lounge Access: Cardholders get complimentary access to the Centurion Lounge network and partner lounges (Delta SkyClub) globally. Guest access is $50 per person after two complimentary guests per year. The maximum number of guests is 4 per visit. Children under 2 are complimentary.
+Lounge Access:
+- Complimentary access to 1,400+ airport lounges worldwide
+- Guest fee: $50 per guest per visit
+- Priority Pass Select membership included
 
-3. Rewards Transfer: Points can be transferred to partner airlines and hotels. There is a 1:1 transfer ratio for most partners, but a federal excise tax offset fee of $0.0006 per point (max $99) applies to all airline transfers. The minimum transfer amount is 1,000 points.
+Travel Insurance:
+- Trip cancellation coverage up to $10,000 per trip
+- Baggage insurance up to $3,000
+- Car rental loss and damage coverage
 
-4. Fraud Pattern Library: High-value transactions ($5,000+) followed immediately by a points transfer are flagged for mandatory human review to comply with anti-money laundering regulations. This is the primary trigger for the 'Flagged for Risk' status in the rewards_transfer_api.
+Points Transfer:
+- Transfer points 1:1 to airline and hotel partners
+- Federal excise tax offset fee: $0.0006 per point applies to airline transfers
+- Partners include Delta, Marriott, Hilton, and more
+
+Fraud Pattern Policy:
+- Transfers flagged for unusual volume or destination
+- Manual review required for high-risk transactions
+- Error code HIGH_RISK_FLAG_007 indicates fraud review needed
