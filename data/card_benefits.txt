@@ -1,0 +1,30 @@
+# Platinum Card Benefits and Policies
+
+Annual Fee: $695
+
+Lounge Access:
+- Complimentary access to 1,400+ airport lounges worldwide (including Centurion and Plaza Premium).
+- Primary cardholder: Unlimited complimentary access.
+- Spouse/companion: Complimentary- Guest fee: $50 per guest per visit
+- Location: Delhi T3 International Departure, Plaza Premium Lounge (Complimentary for primary + 1 guest).).
+- Guest fee for additional guests (beyond the complimentary companion): $50 per person per visit.
+- Advance booking: Not required, walk-in access available.
+- Priority Pass Select membership included.
+
+Travel Insurance:
+- Trip cancellation coverage up to $10,000 per trip.
+- Baggage insurance up to $3,000.
+- Car rental loss and damage coverage.
+
+Points Transfer:
+- Transfer points 1:1 ratio to airline and hotel partners (e.g., Delta, Marriott, Hilton, Japan Airlines).
+- Federal excise tax offset fee: $0.0006 per point applies to all airline transfers.
+- Transfer fee: 0.5% of points transferred (Applies to all airline transfers).
+- Fee minimum: $5, maximum: $100 (Applies to all airline transfers).
+- Transfer time: Instant to 48 hours.
+
+Fraud Pattern Policy:
+- Transfers flagged for unusual volume or destination.
+- Manual review required for high-risk transactions.
+- Error code HIGH_RISK_FLAG_007 indicates fraud review needed.
+- Specific trigger: Transfer volume exceeding 200,000 points in 7 days or transfers to a newly linked partner.

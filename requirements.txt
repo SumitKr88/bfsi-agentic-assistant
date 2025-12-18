@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-google-genai  # New library for Gemini LLM/Agents
+google-genai            # New core Google GenAI SDK
+faiss-cpu
+python-dotenv
+sentence-transformers
+langchain-huggingface

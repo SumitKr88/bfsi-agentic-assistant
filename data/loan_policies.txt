@@ -1,0 +1,19 @@
+# Loan Policy and Approval Process
+
+Loan Eligibility Criteria:
+- Minimum Credit Score: 720
+- Maximum Debt-to-Income Ratio: 0.40 (40%)
+- Maximum Loan Amount: $100,000
+- Standard Interest Rate: 5.99% APR
+
+Document Requirements:
+- Government-issued photo ID
+- Proof of income (last 3 pay stubs)
+- Bank statements (last 3 months)
+- Employment verification
+
+Approval Process:
+1. Document verification and fraud check
+2. Credit bureau score verification
+3. Income and DTI ratio validation
+4. Final underwriting decision
