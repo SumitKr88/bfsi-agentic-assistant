@@ -226,6 +226,8 @@ Have a wonderful anniversary trip to Tokyo! 🎊
 ```
 
 ---
+<img width="8192" height="4677" alt="Untitled diagram-2026-01-27-174808" src="https://github.com/user-attachments/assets/e4dadb35-0093-432e-99f4-ce57b3021adf" />
+
 
 ## What Just Happened? The Power of Agentic AI
 
