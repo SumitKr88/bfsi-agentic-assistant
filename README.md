@@ -321,6 +321,10 @@ The app will open automatically in your browser at `http://localhost:8501`
 
 ---
 
+<img width="1451" height="794" alt="Screenshot 2026-03-30 at 1 15 03 PM" src="https://github.com/user-attachments/assets/b2a80a17-2e11-49c9-a7aa-b3d1c14b8876" />
+
+---
+
 ### Test Case 1: RAG-A (Pure Knowledge Retrieval)
 
 **Concept:** Agent retrieves information from policy documents without taking actions
